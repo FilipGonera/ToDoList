@@ -49,6 +49,7 @@
 			isa = PBXGroup;
 			children = (
 				1D1202F3214ABE2B00B035EC /* CheckmarkBtn.swift */,
+				1D6CBD682119C1B300324833 /* TableViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -75,7 +76,6 @@
 				1D1202F5214ABE3000B035EC /* View */,
 				1D7B613A21106451000DF2CF /* AppDelegate.swift */,
 				1D7B613C21106451000DF2CF /* TableViewController.swift */,
-				1D6CBD682119C1B300324833 /* TableViewCell.swift */,
 				1D7B614F2111C06F000DF2CF /* InsertInfoViewController.swift */,
 				1D6CBD692119C1B300324833 /* TableViewCell.xib */,
 				1D7B613E21106452000DF2CF /* Main.storyboard */,
